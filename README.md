@@ -52,7 +52,7 @@
      
      ***
 
-2. CRUD сервис (практика с side-эффектами):
+<!--2. CRUD сервис (практика с side-эффектами):
     
      > [Redux](https://github.com/Antis85/ra-hw11-api-redux)    
      >
@@ -64,44 +64,11 @@
      >     
      > [Ссылка на страницу](https://antis85.github.io/ra-hw13-saga-details)
 
-     ***
+     ***-->
 
 ## Javascript:
 
-1. Браузерная игра
-
-     Задачи: 
-     >
-     > + Доработать пошаговую игру с уже созданными UI и базовыми классами
-     > + Перевести работу проекта на Npm, Babel, Webpack, ESLint, Jest
-     > + Дописать оставшуюся функциональность, в соответствии с механикой игры
-     > + Разработать автотесты
-     > + Публикация на GitHub Pages
-          
-     Технологии: 
-     > Html, CSS, JS, ООП, Web Storage API, Unit-testing, Npm, Webpack, Webpack DevServer, Babel, ESLint, Jest, Appveyor, GitHub Pages
-     
-     Репозиторий: https://github.com/Antis85/retro-game
-     
-     Ссылка на страницу: https://antis85.github.io/retro-game
-     
-     ***
-
-2. TODO лист
-     > Репозиторий: https://github.com/Antis85/ahj-dnd-hw1
-     > 
-     > Ссылка на страницу: https://antis85.github.io/ahj-dnd-hw1
-
-     ***
-
-3. Чат
-     > Репозиторий: https://github.com/Antis85/ahj-http-sse-ws-frontend-hw1
-     > 
-     > Ссылка на страницу: https://antis85.github.io/ahj-http-sse-ws-frontend-hw1
-
-     ***
-
-4. Приложение-органайзер
+1. Приложение-органайзер
 
      Задачи: 
      >
@@ -138,6 +105,41 @@
      Ссылка на страницу: https://antis85.github.io/ahj-chaos-organizer
      
      ***
+
+2. Браузерная игра
+
+     Задачи: 
+     >
+     > + Доработать пошаговую игру с уже созданными UI и базовыми классами
+     > + Перевести работу проекта на Npm, Babel, Webpack, ESLint, Jest
+     > + Дописать оставшуюся функциональность, в соответствии с механикой игры
+     > + Разработать автотесты
+     > + Публикация на GitHub Pages
+          
+     Технологии: 
+     > Html, CSS, JS, ООП, Web Storage API, Unit-testing, Npm, Webpack, Webpack DevServer, Babel, ESLint, Jest, Appveyor, GitHub Pages
+     
+     Репозиторий: https://github.com/Antis85/retro-game
+     
+     Ссылка на страницу: https://antis85.github.io/retro-game
+     
+     ***
+
+<!--2. TODO лист
+     > Репозиторий: https://github.com/Antis85/ahj-dnd-hw1
+     > 
+     > Ссылка на страницу: https://antis85.github.io/ahj-dnd-hw1
+
+     ***
+
+3. Чат
+     > Репозиторий: https://github.com/Antis85/ahj-http-sse-ws-frontend-hw1
+     > 
+     > Ссылка на страницу: https://antis85.github.io/ahj-http-sse-ws-frontend-hw1
+
+     ***-->
+
+
 
 ## Верстка:
 
@@ -199,4 +201,5 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=antis85&layout=compact&hide=shell&theme=dark)
 
-[![Visits Badge](https://badges.pufler.dev/visits/antis85/antis85)](https://badges.pufler.dev)
+<!--[![Visits Badge](https://badges.pufler.dev/visits/antis85/antis85)](https://badges.pufler.dev)-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=antis85.antis85)
